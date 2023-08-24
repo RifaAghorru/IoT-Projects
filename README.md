@@ -8,12 +8,14 @@ personal IoT Projects, just for fun :)
 ![wiring-image](wiring_dht22.png)
 ![project-image](dht22.jpg)
 
+
 2. Implement fuzzy logic mamdani to IoT automatic watering system using nodemcu, soil moisture sensor sensor and DHT11 and blynk as platform
 
 [SOURCE CODE](wtpump_fuzzymamdani_soilmoisturesensor.ino)
 
 ![wiring-image](wiring_wtpump_fuzzymamdani_soilmoisturesensor.png)
-![project-image](wtpump_fuzzymamdani_soilmoisturesensor.jpg)
+![project-image](wtpump_fuzzymamdani_soilmoisturesensor.png)
+
 
 3. IoT air quality monitoring using nodemcu, pq135 gas sensor and dht22 using blynk as platform
 
