@@ -3,10 +3,10 @@ personal IoT Projects, just for fun :)
 
 1. Air quality monitoring PM2.5, temperature and humidity using Sharp GP2Y1010AU0F dust sensor and DHT22
 
-[SOURCE CODE](PM2.5 monitoring.ino)
+[SOURCE CODE](PM2.5_monitoring.ino)
 
-![wiring-image](wiring_PM2.5 monitoring.png)
-![project-image](PM2.5 monitoring.jpg)
+![wiring-image](wiring_PM2.5_monitoring.png)
+![project-image](PM2.5_monitoring.jpg)
 
 2. IoT weather station using nodemcu and dht22 sensor to detect ambient humidity and temperature using blynk as platform
 
